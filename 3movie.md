@@ -1,7 +1,7 @@
 # EXPERIMENT 3
 # FOR QUERIES
-https://github.com/Manishabro/dbms/blob/main/3.md#queries
-# Insertion 
+https://github.com/Manishabro/dbms/blob/main/3movie.md#queries
+# create
 
 ```sql
 
