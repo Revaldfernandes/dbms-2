@@ -115,7 +115,7 @@ WHERE NOT CITY=ANY(SELECT CITY FROM CUSTOMER WHERE SALESMAN.CITY = CUSTOMER1.CIT
 ## 4.	Create a view that finds the salesman who has the customer with the highest order of a day.
    
 ```sql
-4.	Create a view that finds the salesman who has the customer with the highest order of a day.
+
 
 CREATE VIEW HIGHEST AS SELECT ORDERS.ORD_DATE, SALESMAN.SALESMAN_ID,SALESMAN.NAME, ORDERS.PURCHASE_AMT FROM ORDERS, SALESMAN WHERE SALESMAN.SALESMAN_ID=ORDERS.SALESMAN_ID GROUP BY ORD_DATE HAVING MAX(PURCHASE_AMT);
 ```
