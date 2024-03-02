@@ -1,4 +1,4 @@
-# Experiment No. 1
+# Experiment No. 2
 
 ## FOR QUERIES :
 (https://github.com/Manishabro/dbms/blob/main/2.orders.md#queries)
