@@ -1,7 +1,7 @@
 # Experiment No. 2
 
 ## FOR QUERIES :
-(https://github.com/Manishabro/dbms/blob/main/2.orders.md#queries)
+(https://github.com/Manishabro/dbms/blob/main/2orders.md#queries)
 
 
 ## TABLE CREATION 
